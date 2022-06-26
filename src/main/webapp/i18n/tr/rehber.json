@@ -1,0 +1,28 @@
+{
+  "telephoneApp": {
+    "rehber": {
+      "home": {
+        "title": "Rehberim",
+        "refreshListLabel": "Listeyi Yenile",
+        "createLabel": "Yeni Kişi Ekle",
+        "createOrEditLabel": "Yeni Kişi Oluştur veya Düzenle",
+        "notFound": "Herhangi Bir Kayıt Bulunamamıştır!!!"
+      },
+      "created": "{{ param }} sıra numaralı yeni kişi oluşturuldu.",
+      "updated": "{{ param }} sıra numaralı kişi güncellendi.",
+      "deleted": "{{ param }} sıra numaralı kişi silindi.",
+      "delete": {
+        "question": "{{ id }} sıra numaralı kişiyi Rehber'den silmek istediğine emin misin?"
+      },
+      "detail": {
+        "title": "Rehber"
+      },
+      "id": "Sıra Nu",
+      "adi": "Adı",
+      "soyadi": "Soyadı",
+      "dahili": "Dahili",
+      "cep": "Cep",
+      "aciklama": "Açıklama"
+    }
+  }
+}

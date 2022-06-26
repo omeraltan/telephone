@@ -1,0 +1,13 @@
+
+entity Rehber {
+	adi String required
+    soyadi String required
+    dahili String required
+    cep String
+    aciklama String
+}
+
+paginate Rehber with pagination
+
+service all with serviceImpl except Rehber
+
