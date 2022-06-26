@@ -1,12 +1,13 @@
 {
   "global": {
-    "title": "Telephone",
+    "title": "Rehber",
     "browsehappy": "<strong>Çok eski</strong> bir tarayıcı kullanıyorsunuz. Lütfen kullanım kalitenizi arttırmak için <a href=\"http://browsehappy.com/?locale=tr\">tarayıcınızı yükseltin</a>.",
     "menu": {
       "home": "Ana Sayfa",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Varlıklar",
+        "rehber": "Rehber",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
@@ -97,7 +98,7 @@
       "edit": "Düzenle",
       "open": "Aç",
       "save": "Kaydet",
-      "view": "Görüntüle"
+      "view": "Detay"
     },
     "detail": {
       "field": "Alan",
@@ -107,7 +108,7 @@
       "title": "Silme işlemini onayla"
     },
     "validation": {
-      "required": "Bu alan gerekli.",
+      "required": "Bu alan gereklidir.",
       "minlength": "Bu alan en az {{min}} karakterden oluşabilir.",
       "maxlength": "Bu alan en fazla {{max}} karakterden oluşabilir.",
       "min": "Bu alan en az {{min}} olmalı.",
@@ -137,5 +138,5 @@
       "not.image": "File was expected to be an image but was found to be \"{{ fileType }}\""
     }
   },
-  "footer": "Burası sayfa alt bilgisi"
+  "footer": "Bu uygulama Ömer ALTAN tarafından yapılmıştır."
 }
